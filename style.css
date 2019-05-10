@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+
+.bg{
+    background-image: url("header.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+p{
+    color: white;
+    font-size: 2em;
+    text-transform: uppercase;
+    padding-top: 210px;
+    text-align: center;
+}
+.btn{
+    margin-top: 220px;
+    width: 40%;
+margin-left: 30%;
+margin-right: 30%;
+border-radius: 50px;
+}
